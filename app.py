@@ -4,3 +4,6 @@ def Commit1():
 def featureA():
     print("featureA working..... overtime")
     print("Now updated with this new print statement")
+
+def featureB():
+    print("featureB.... Working")
